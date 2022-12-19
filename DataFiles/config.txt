@@ -1,0 +1,9 @@
+# This is the config file where left right and shoot keybindings are set
+# The keys cannot be ESC or P
+L,Left
+R,Right
+S,space
+# If you want the keys to be letters just enter in the format like "S,x" 
+# Note most special keys have a capital except for space, check the page
+# If keys do not abbide by this they will not be applied
+# For the keycodes see this website: https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/key-names.html
